@@ -36,6 +36,8 @@ __🛠️ Tecnologias Utilizadas:__
 > 
 > *Após executar estes comandos, o dashboard será aberto automaticamente no seu navefador padrão.*
 
+----------------------------------------------
+
 
 <br>
 
